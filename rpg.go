@@ -51,6 +51,7 @@ func main() {
 	player_hp := 10
 	player_dmg := 2
 	player_gold := 0
+	_ = player_gold
 	player_kills := 0
 
 	for is_continue {
